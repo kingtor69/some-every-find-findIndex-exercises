@@ -1,1 +1,1 @@
-# some-every-find-findIndex-exercises
+# some-every-find-findindex-exercises
